@@ -1,7 +1,15 @@
-## Welcome to my GitHub space!
----
+<div align="center"><h1>Ich bin <em>Sandeep</em></h1>
+<img src="https://media.giphy.com/media/l44Ql1aJFFtdExHEc/giphy-downsized-large.gif" alt="Coder" width="400" height="300" />
+</div>
 
-#### Ich bin _Sandeep_ und komme aus Hamburg.
+### Sprachen
+- Deutsch
+- Englisch
+- Punjabi
+- Hindi
+
+
+
 <!--
 **itsandeepsingh/itsandeepsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +24,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center"> 
+<h3>Visitor count</h3>
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+</div>
+
