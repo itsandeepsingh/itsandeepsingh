@@ -1,9 +1,7 @@
-### Hi there 👋
+## Welcome to my GitHub space!
+---
 
-My Name is Sandeep. I am a Productdesigner. Nature inspire me.
-
-![Nature is Wonderfull](https://images.unsplash.com/photo-1469474968028-56623f02e42e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bmF0dXJlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60)
-
+#### Ich bin _Sandeep_ und komme aus Hamburg.
 <!--
 **itsandeepsingh/itsandeepsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
