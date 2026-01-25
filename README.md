@@ -1,9 +1,9 @@
 ## 👋 Namaste, ich bin Sandeep 
-Produktdesigner, UX/UI Designer mit Begeisterung für Technik.
+Produktdesigner, UX, IT Consultant (Certified ServiceNow Developer) mit Begeisterung für Technik.
 
 
 
-💻 Mit Leidenschaft für Ästhetik und einem Verständnis für Benutzerverhalten arbeite ich daran, intuitives Design zu entwicklen.
+💻 Mit Leidenschaft für Ästhetik und einem Verständnis für Benutzerverhalten arbeite ich daran, intuitive Design`s zu entwicklen.
 
 🌟 Meine Designs sind nicht nur schön, sondern auch funktional. Ich glaube daran, dass großartiges Design von der nahtlosen Verschmelzung von Ästhetik und Benutzerfreundlichkeit geprägt ist.
 
@@ -17,7 +17,6 @@ Produktdesigner, UX/UI Designer mit Begeisterung für Technik.
 
 🏀 Wenn ich nicht gerade Pixel bewege, findest du mich auf dem Basketballplatz, wo ich meine Kreativität durch schnelle Spielzüge auslebe.
 
-Gemeinsam werden wir das Beste aus Design und Entwicklung vereinen, um außergewöhnliche Benutzererlebnisse zu schaffen, die begeistern und überzeugen!
 
 ### Sprachen
 - Deutsch
